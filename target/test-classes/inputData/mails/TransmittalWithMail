@@ -1,0 +1,18 @@
+--myboundary
+Content-Type: application/vnd.aconex.mail.v2+xml
+
+<Mail>
+<Attribute3>Administration</Attribute3>
+<RichMailText>false</RichMailText>
+<MailBody>transmettal using API</MailBody>
+<MailSubject>Transmittal$SUBJECT</MailSubject>
+<MailTypeId>23</MailTypeId>
+<ReasonForIssue>1</ReasonForIssue>
+<TotalAttachmentCount>0</TotalAttachmentCount>
+<ToUserId>1879048288</ToUserId>
+</Mail>
+
+--myboundary
+-MailId: 1879057602
+
+--myboundary--

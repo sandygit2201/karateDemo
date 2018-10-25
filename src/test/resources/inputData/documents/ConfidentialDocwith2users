@@ -1,0 +1,25 @@
+--myboundary
+
+<Document>
+  <DocumentNumber>$DOCUMENT_NUMBER</DocumentNumber>
+  <Title>API Upload</Title>
+  <DocumentStatusId>1879048216</DocumentStatusId>
+  <Revision>A</Revision>
+  <AccessList>1879049107</AccessList>
+  <AccessList>1879049123</AccessList>
+  <DocumentTypeId>1879048197</DocumentTypeId>
+  <Attribute1>Administration</Attribute1>
+  <PrintSize>A4</PrintSize>
+  <Discipline>Civil</Discipline>
+  <RevisionDate>2020-02-19T12:00:00.000Z</RevisionDate>
+  <HasFile>true</HasFile>
+</Document>
+
+--myboundary
+
+X-FileName:ruby_testing.txt
+
+V2VsY29tZSB0byBSdWJ5IENhcHliYXJh
+
+
+--myboundary--

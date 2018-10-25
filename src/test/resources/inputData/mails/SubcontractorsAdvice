@@ -1,0 +1,30 @@
+--myboundary
+Content-Type: application/vnd.aconex.mail.v2+xml
+
+<Mail>
+<Attribute3>Administration</Attribute3>
+<RichMailText>false</RichMailText>
+<MailBody>asdf</MailBody>
+<MailSubject>SubContractorsAdvice$SUBJECT</MailSubject>
+<MailTypeId>1879048512</MailTypeId>
+<TotalAttachmentCount>1</TotalAttachmentCount>
+<ToUserId>1879049187</ToUserId>
+<Attribute1>Administration</Attribute1>
+<MailFormFields>
+ <MailFormField identifier="completed_boolean">true</MailFormField>
+ <MailFormField identifier="deadline_date">2030-12-19</MailFormField>
+ <MailFormField identifier="feedback_multiLineText">Whitemud Iron Works</MailFormField>
+ <MailFormField identifier="pipelength_number_length_metre">100</MailFormField>
+ <MailFormField identifier="colour_singleLineText">RED</MailFormField>
+ <MailFormField identifier="status_singleSelect">Approved</MailFormField>
+</MailFormFields>
+</Mail>
+
+--myboundary
+
+X-FileName:ruby_testing.txt
+
+V2VsY29tZSB0byBSdWJ5IENhcHliYXJh
+
+
+--myboundary--

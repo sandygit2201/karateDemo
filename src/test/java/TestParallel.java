@@ -15,7 +15,7 @@ import static org.junit.Assert.assertTrue;
 
 @CucumberOptions(features = {
 
-        "classpath:features/mail/sendMail.feature",
+        "classpath:features/sample/sampleCode.feature",
 
 },
         format = {"pretty", "html:reports"},
@@ -38,5 +38,6 @@ public class TestParallel {
         ReportBuilder reportBuilder = new ReportBuilder(jsonPaths, config);
         reportBuilder.generateReports();
     }
+
 
 }
